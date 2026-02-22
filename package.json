@@ -1,0 +1,24 @@
+{
+  "name": "dev-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinparra/dev-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vinparra/dev-playground/issues"
+  },
+  "homepage": "https://github.com/vinparra/dev-playground#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
